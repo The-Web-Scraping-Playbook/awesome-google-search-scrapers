@@ -23,10 +23,10 @@ Perfect for:
 
 ---
 
-## 🧠 Google-Search OpsKit
-> Find out everything you need to know to reliably scrape Google-Search with our new tool: [Ops Kit](https://scrapeops.io/websites/google-search)
+## 🧠 Google Website Scraping Analyzer
+> Find out everything you need to know to reliably scrape Google with our new tool: [Website Scraping Analyzer](https://scrapeops.io/websites/google)
 
-This kit provides the blueprint for Google-Search scraping operations:
+Our Website Scraping Analyzer provides the blueprint for Google scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
 - **Data:** Data Types, Public APIs
 - **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
@@ -136,8 +136,8 @@ This kit provides the blueprint for Google-Search scraping operations:
 
 ---
 
-## 🧠 Google-Search Tutorials & How-Tos<a id="google-search-tutorials"></a>
-- 📘 [How to Scrape Google-Search at Scale](https://scrapeops.io/websites/google-search/how-to-scrape-google-search)
+## 🧠 Google Tutorials & How-Tos<a id="google-search-tutorials"></a>
+- 📘 [How to Scrape Google at Scale](https://scrapeops.io/websites/google/how-to-scrape-google)
 - 🔐 [Web Scraping Google-Search Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
 - 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
@@ -163,7 +163,6 @@ All contributions welcome! We'll vet and include approved scrapers in the next u
 
 ## 🏷 Tags
 Google-Search scraper, web scraping, google-search API, python scraper, playwright, data scraping, anti-bot, github, open-source google-search crawler, ScrapeOps
-
 
 ---
 
